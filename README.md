@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @ziyad-ahmad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Full stuck and Back-end Develooping
+- 🌱 I’m currently Teching and developing Python and Python framework
+- 💞️ I’m looking to collaborate on any project community
+- 📫 How to reach me ziyadwru.12@gmail.com
 
-<!---
-ziyad-ahmad/ziyad-ahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
